@@ -6,7 +6,7 @@
   "watchdog": {
     "action": "reading",
     "type": "scalar",
-    "value": 0,
+    "value": 27,
     "unit": "",
     "alarm": {
       "value": 0,
@@ -226,7 +226,7 @@
   "beamPulseLength": {
     "action": "reading",
     "type": "scalar",
-    "value": 202,
+    "value": 201,
     "unit": "uS",
     "alarm": {
       "value": 0,
@@ -266,7 +266,7 @@
   "rfDutyFactor": {
     "action": "reading",
     "type": "scalar",
-    "value": 0.042,
+    "value": 0.106,
     "unit": "%",
     "alarm": {
       "value": 0,
