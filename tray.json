@@ -6,7 +6,7 @@
   "watchdog": {
     "action": "reading",
     "type": "scalar",
-    "value": 27,
+    "value": 19,
     "unit": "",
     "alarm": {
       "value": 0,
@@ -226,7 +226,7 @@
   "beamPulseLength": {
     "action": "reading",
     "type": "scalar",
-    "value": 201,
+    "value": 202,
     "unit": "uS",
     "alarm": {
       "value": 0,
