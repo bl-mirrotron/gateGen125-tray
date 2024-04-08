@@ -6,7 +6,7 @@
   "watchdog": {
     "action": "reading",
     "type": "scalar",
-    "value": 19,
+    "value": 0,
     "unit": "",
     "alarm": {
       "value": 0,
